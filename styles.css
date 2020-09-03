@@ -1,0 +1,48 @@
+
+body{
+background: black;
+margin:0 auto;}
+
+img.html5{width: 30px;
+height: 30px;
+
+}
+
+div.html5logo{ width: 30px;
+height: 30px;
+float:left;}
+.inline{display:inline-block;}
+h6{
+display:inline-block;
+margin: 0px;
+font-family: Arial, Helvetica, sans-serif;
+
+float: left;
+}
+.all{width: 400px;
+    margin: 0 auto;
+background: white;
+margin-top: 40px;
+margin-bottom: 40px;}
+
+.titulo{width:400px;}
+
+span{font-weight: normal;}
+div.tit{display:block;
+padding: 15px 20px 15px 20px;}
+#trespuntos{
+float:right;}
+
+.imag{width: 400px;
+object-fit: cover;
+margin:0 auto;
+}
+.icons{display:block;}
+.iconos1{padding:5px 0px 5px 20px;
+float:left;}
+.iconos2{padding:5px 20px 5px 0px;
+float:right;}
+.text{display:block;
+padding: 5px 20px 10px 20px;}
+p{font-size:12px;
+font-family: Arial, Helvetica, sans-serif;}
